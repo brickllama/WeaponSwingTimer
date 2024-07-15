@@ -1,0 +1,7 @@
+## Interface: 11503
+## Title: Weapon Swing Timer
+## Notes: Work In Progress
+## Author: Brickllama
+## Version: 0.0.1
+
+WeaponSwingTimer.lua
